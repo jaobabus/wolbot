@@ -4,9 +4,9 @@ Is a simple telegram bot for waking up your computer on lan.
 All necessary configurations are in defs.h (wifi ssid, passwd, bot token, ...)
 
 ## Dependencies
-ESP8266 MCU
-[FastBot](https://github.com/GyverLibs/FastBot)
-[WakeOnLan](https://github.com/a7md0/WakeOnLan)
+- ESP8266 MCU
+- [FastBot](https://github.com/GyverLibs/FastBot)
+- [WakeOnLan](https://github.com/a7md0/WakeOnLan)
 
 ## Usage
 #### Common commands
